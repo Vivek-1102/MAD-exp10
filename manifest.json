@@ -1,0 +1,21 @@
+{    "name": "My Portfolio",
+    "short_name":"Portfolio",
+    "start_url":"/index.html",
+    "display":"standalone",
+    "background_color":"#FFE902",
+    "theme_color":"#FFE902",
+    "orientation":"portrait-primary",
+    "icons":[
+        {  "src":"port.png",
+            "type":"image/png",
+            "sizes":"72x72" },
+        { "src":"port144.png",
+            "type":"image/png",
+            "sizes":"144x144",
+            "purpose":"any"
+        }  ,
+        {  "src":"port512.png",
+        "type":"image/png",
+        "sizes":"512x512" ,
+        "purpose":"maskable"}  ]}
+ 
